@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^3.0.7"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "mathjs": "^5.2.3"
